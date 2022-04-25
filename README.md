@@ -1,1 +1,1 @@
-# spark-simple-apps
+# Spark simple apps
